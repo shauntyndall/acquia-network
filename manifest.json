@@ -1,0 +1,14 @@
+{
+"name": "Acquia Network",
+"manifest_version": 2,
+"version": "1.4",
+"icons": { "128": "icon.png" },
+"app": {
+"urls": [
+"http://www.shauntyndall.com/"
+],
+"launch": {
+"web_url": "http://www.shauntyndall.com/acquia-network"
+}
+}
+}
